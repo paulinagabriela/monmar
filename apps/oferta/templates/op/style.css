@@ -1,0 +1,49 @@
+#container
+{
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
+}
+#logo
+{
+background-color: midnightblue;
+color: white;
+padding: 15px;
+}
+#nav
+{
+float: left;
+background-color: midnightblue;
+width: 120px;
+min-height: 620px;
+padding: 10px;
+}
+#content
+{
+float: left;
+color: white;
+width: 640px;
+padding: 20px;
+}
+#ad
+{
+float: left;
+background-color: lightgray;
+min-height: 620px;
+width: 160px;
+padding: 10px;
+}
+#footer
+{
+clear: both;
+background-color: midnightblue;
+color: white;
+text-align: center;
+padding: 20px;
+}
+body{
+background-color: midnightblue;
+font-family: 'Josefin Sans', sans-serif;
+font-size: 20px;
+
+}
